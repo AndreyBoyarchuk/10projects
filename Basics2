@@ -1,0 +1,8 @@
+student_grades={"sim":9.1, "Mary":8.5,"John":7.2 }
+print(student_grades["sim"])
+sample1=[1,2,3,]
+tuple(sample1)
+print(sample1)
+sample2=[["name", "John"], ["surname", "smith"]]
+sconver=dict(sample2)
+print(sconver["name"])
