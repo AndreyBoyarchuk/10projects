@@ -28,13 +28,15 @@ def translate(w):
         return "The word doesn't exist. Please double check it."
 
 
-output = []
-while True:
-    user_input = input('Say Word: or type \end')
-    if user_input == "\end":
-        print("fuck your self")
-        break
-    else:
-        output = translate(user_input)
+def wrapper():
+    while True:
+        user_input = input('Say Word: or type \end: ')
+        if user_input == "\end":
+            print("End of program")
+            break
+        else:
+            output = translate(user_input)
+            print(output)
 
-        print(output)
+
+wrapper()

@@ -1,6 +1,8 @@
+
+
 results = []
 while True:
-    user_input = input("Say something").strip()
+    user_input = input("Say something: ").strip()
     if user_input =="\end":
         break
     else:
