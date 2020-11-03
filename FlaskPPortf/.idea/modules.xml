@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/10Real.iml" filepath="$PROJECT_DIR$/../.idea/10Real.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FlaskPPortf.iml" filepath="$PROJECT_DIR$/.idea/FlaskPPortf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/GitHub.iml" filepath="$PROJECT_DIR$/../../.idea/GitHub.iml" />
     </modules>
   </component>
 </project>
