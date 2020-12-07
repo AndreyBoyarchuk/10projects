@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8 (Basic Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="GitHub" />
+    <orderEntry type="module" module-name="Kivy" />
+    <orderEntry type="module" module-name="Kivy2" />
   </component>
 </module>

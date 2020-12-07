@@ -1,0 +1,19 @@
+class Appple:
+    manufacturer = "Apple Inc"
+    contactWebsite = "www.apple/contact"
+
+    def contactDetails(self):
+        print( "To contact us, log on to", self.contactWebsite )
+
+
+class MacBook( Appple ):
+    def __init__(self):
+        self.yearOfManufacture = 2017
+
+    def manufactureDetails(self):
+        print( f"This MacBook was manufacturedin the year {self.yearOfManufacture} by {self.manufacturer}"  )
+
+
+mackBook = MacBook()
+mackBook.manufactureDetails()
+mackBook.contactDetails()

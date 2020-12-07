@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/10Real.iml" filepath="$PROJECT_DIR$/.idea/10Real.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/GitHub.iml" filepath="$PROJECT_DIR$/../.idea/GitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kivy/.idea/Kivy.iml" filepath="$PROJECT_DIR$/../Kivy/.idea/Kivy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kivy2/.idea/Kivy2.iml" filepath="$PROJECT_DIR$/../Kivy2/.idea/Kivy2.iml" />
     </modules>
   </component>
 </project>
